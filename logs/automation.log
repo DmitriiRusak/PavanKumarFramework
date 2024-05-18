@@ -1,0 +1,20 @@
+16:08:19.343 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting verify_account_registration test in TC_001_AccountRegistrationTest class
+16:08:19.540 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked my account button
+16:08:20.957 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked registration button
+16:08:20.959 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting to enter the values for registration
+16:08:24.616 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished verify_account_registration
+17:11:47.090 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting verify_account_registration test in TC_001_AccountRegistrationTest class
+17:11:47.358 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked my account button
+17:11:49.569 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked registration button
+17:11:49.571 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting to enter the values for registration
+17:11:52.697 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished verify_account_registration
+17:27:14.761 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting verify_account_registration test in TC_001_AccountRegistrationTest class
+17:27:14.949 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked my account button
+17:27:16.440 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked registration button
+17:27:16.442 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting to enter the values for registration
+17:27:19.246 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished verify_account_registration
+13:21:22.482 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting verify_account_registration test in TC_001_AccountRegistrationTest class
+13:21:22.770 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked my account button
+13:21:25.425 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked registration button
+13:21:25.428 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting to enter the values for registration
+13:21:27.064 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished verify_account_registration

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Name of the suite" parallel="tests">
+    <test name="chrome">
+        <parameter name="os" value="Linux"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCases.TC_001_AccountRegistrationTest"></class>
+        </classes>
+    </test>
+
+    <test name="fireFox">
+        <parameter name="os" value="Linux"/>
+        <parameter name="browser" value="fireFox"/>
+        <classes>
+            <class name="testCases.TC_001_AccountRegistrationTest"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Group run">
+
+    <listeners><!-- ЭТОТ ЛИСТЕНЕР ДЛЯ РЕПОРТА-->
+        <listener class-name="utilities.ExtentReportManager"></listener>
+    </listeners>
+
+    <test name="just a name">
+        <parameter name="os" value="Linux"/>
+        <!--<parameter name="browser" value="chrome"/> -->
+        <parameter name="browser" value="fireFox"/>
+        <groups>
+            <run>
+                <include name="regression"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="testCases.TC_001_AccountRegistrationTest"></class>
+            <class name="testCases.TC_002_LoginTest"></class>
+        </classes>
+    </test>
+</suite>
